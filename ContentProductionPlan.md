@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://angor.io/assets/images/logo-angor.svg" height="100" alt="Angor" />
+    <img src="https://angor.io/favicon.svg" height="100" alt="Angor" />
 </p>
  
  <h1 align="center" style="color:#1f5d6a">
